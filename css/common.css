@@ -29,6 +29,9 @@ img {
     display: block;
     max-width: 100%;
 }
+button {
+    font-family: inherit;
+}
 .container {
     max-width: 1158px;
     margin: 0 auto;
